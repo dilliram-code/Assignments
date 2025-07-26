@@ -1,4 +1,4 @@
-# Physics Wallah Tech Data Science Course
+# Data Science Masters by PW (Physics Wallah)
 
 Welcome to my Data Science journey with Physics Wallah Tech! This repository documents my progress throughout the 9-month-long Data Science course.
 
@@ -40,19 +40,21 @@ Welcome to my Data Science journey with Physics Wallah Tech! This repository doc
 ## Resources
 
 - 📚 **Recommended Textbooks**
+  
+  <a href="https://books.google.com.np/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=bRpYDgAAQBAJ&source=kp_cover&redir_esc=y"> Hands-On Machine Learning with Scikit-Learn and TensorFlow </a>
 - 🖥️ **Online Learning Platforms**
+
+  <a href="https://youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&si=l2SCAjJ_pg5a9d5Y">Data Science Mentorship Program by Campus X</a>
 - 📖 **Additional Reading Materials**
 
-## My Progress
-
-- 📆 **Weekly Updates:** Check my weekly progress updates in the [Weekly Log](weekly-log.md) file.
+  <a href="https://www.youtube.com/@krishnaik06">Krish Naik Youtube Channel</a>  
 
 ## Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/dilliramchaudhary/)
+🌐 [LinkedIn](https://www.linkedin.com/in/dilliramchaudhary/)
 
 ## Acknowledgments
 
-A big shoutout to Physics Wallah Tech for providing this incredible learning opportunity!
+A big shoutout to Physics Wallah for providing this incredible learning opportunity!
 
-Happy coding!
+**Happy coding!**
