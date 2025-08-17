@@ -7,8 +7,8 @@ Welcome to my Data Science journey with Physics Wallah Tech! This repository doc
 - **Duration:** 9 months
 - **Company:** Physics Wallah 
 - **Instructor:** [Krish Naik and Sudhanshu Kumar]
-- **Contact:** [support@pwskills.com]
-- **Platform:** [https://pwskills.com/]
+- **Contact:** support@pwskills.com
+- **Platform:** https://pwskills.com/
 
 ## My Learning Path
 
@@ -35,7 +35,7 @@ Welcome to my Data Science journey with Physics Wallah Tech! This repository doc
 
 - Basic understanding of mathematics and statistics.
 - Familiarity with programming concepts (Python experience is a plus).
-- A laptop with required software installed.
+- A laptop with the required software installed.
 
 ## Resources
 
@@ -45,9 +45,11 @@ Welcome to my Data Science journey with Physics Wallah Tech! This repository doc
 - 🖥️ **Online Learning Platforms**
 
   <a href="https://youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&si=l2SCAjJ_pg5a9d5Y">Data Science Mentorship Program by Campus X</a>
-- 📖 **Additional Reading Materials**
+- 📖 **Additional Sources**
 
-  <a href="https://www.youtube.com/@krishnaik06">Krish Naik Youtube Channel</a>  
+  <a href="https://www.youtube.com/@krishnaik06" target="_blank">Krish Naik YouTube Channel</a>
+
+   <a href="https://www.youtube.com/@3blue1brown" target="_blank">3Blue1Brown YouTube Channel</a>  
 
 ## Connect with Me
 
